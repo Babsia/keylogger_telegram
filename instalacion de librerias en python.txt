@@ -1,6 +1,6 @@
 una vez instalado python y visual studio code en tu pc hace estos pasos:
 1-abrir el cmd 
-2- escribir el comando cd C:\Users\santi\AppData\Local\Programs\Python\Python310\Scripts
+2- escribir el comando cd C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\Scripts
 3-escribir el comando pip install flask
 4-esperar que termine y escribir pip install pyTelegramBotAPI
 5-esperar que termine y escribir pip install pynput
